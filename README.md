@@ -1,12 +1,12 @@
 # Hi, I'm Axel 👋
 
-🎓 Computer Science Engineering Student  
-🔬 Specialized in AI, Deep Learning & Computer Vision  
-🌍 Looking for a 4-month internship (April–August 2026)
+- Computer Science Engineering Student  
+- Specialized in AI, Deep Learning & Computer Vision  
+- Looking for a 4-month internship (April–August 2026)
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I build real-world AI systems combining:
 
@@ -19,7 +19,7 @@ I enjoy designing complete pipelines from data processing to model deployment.
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
 ### ⚽ Football Player & Ball Tracking System
 End-to-end detection and tracking pipeline using YOLO and multi-object tracking.  
@@ -33,7 +33,7 @@ Unity-based intelligent interaction systems with real-time logic.
 
 ---
 
-## 🛠 Technical Stack
+## Technical Stack
 
 **Languages**  
 Python, Java, C, JavaScript
