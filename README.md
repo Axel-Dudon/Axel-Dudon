@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Axel 👋
 
-<!--
-**Axel-Dudon/Axel-Dudon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+🔬 Specialized in AI, Deep Learning & Computer Vision  
+🌍 Looking for a 4-month internship (April–August 2026)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I build real-world AI systems combining:
+
+- Deep Learning (PyTorch, Transformers)
+- Computer Vision (YOLO, tracking, analytics)
+- Multi-object tracking & trajectory analysis
+- Software engineering & system architecture
+
+I enjoy designing complete pipelines from data processing to model deployment.
+
+---
+
+## 🔬 Featured Projects
+
+### ⚽ Football Player & Ball Tracking System
+End-to-end detection and tracking pipeline using YOLO and multi-object tracking.  
+Includes trajectory estimation and analytics.
+
+### 🧠 Attention Mechanisms & Transformer Experiments
+Implementation and analysis of attention-based models in PyTorch.
+
+### 🎮 Interactive 3D & AI Systems
+Unity-based intelligent interaction systems with real-time logic.
+
+---
+
+## 🛠 Technical Stack
+
+**Languages**  
+Python, Java, C, JavaScript
+
+**AI & Data**  
+PyTorch, OpenCV, Transformers, NumPy, Pandas
+
+**Tools**  
+Git, Docker, Linux, Unity
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [Your LinkedIn link]
+- Email: your.email@example.com
