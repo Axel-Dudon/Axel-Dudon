@@ -48,5 +48,4 @@ Git, Docker, Linux, Unity
 
 ## 📫 Contact
 
-- LinkedIn: [Your LinkedIn link]
-- Email: your.email@example.com
+- Email: axel.dudon2@gmail.com
